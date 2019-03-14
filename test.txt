@@ -6,3 +6,5 @@ second local update
 remote update
 
 try config update
+
+remote second update
