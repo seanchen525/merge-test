@@ -7,3 +7,5 @@ local update config
 second
 
 third
+
+fourth local ignore modify!
