@@ -7,3 +7,5 @@ local update config
 second
 
 third
+
+config remote update
