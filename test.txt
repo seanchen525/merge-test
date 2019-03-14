@@ -8,3 +8,5 @@ remote update
 try config update
 
 remote second update
+
+third local update
