@@ -9,3 +9,4 @@ second
 third
 
 fourth local ignore modify!
+config remote update
